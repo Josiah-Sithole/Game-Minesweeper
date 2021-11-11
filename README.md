@@ -13,12 +13,18 @@ Otherwise, a number displayed either  1 or 2  these identifies the total number 
 
  ## Table of Contents 
 
- * [Install Game](#install-game)    
  * [Game Info](#Game-Minesweepre)
+ * [Snapshots In Action](#snapshots-In-Action)
+ * [Install Game](#install-game)   
  * [Rules](#Rules-of-the-game)   
  * [Contact](#contact)
  * [Reference](#reference)  
- 
+
+##Snapshots In Action
+    
+   #### Before Start
+   ![First step: Home Page]()
+
  
  ##Rules of the Game
  
