@@ -20,13 +20,12 @@ Otherwise, a number displayed either  1 or 2  these identifies the total number 
  * [Contact](#contact)
  * [Reference](#reference)  
 
-##Snapshots In Action
-    
+## Snapshots In Action   
    #### Before Start
-   ![First step: Home Page]()
+   ![First step: Home Page](https://github.com/Josiah-Sithole/Game-Minesweeper/blob/main/Game/gameSnaps/beforeStart.PNG)
 
  
- ##Rules of the Game
+ ## Rules of the Game
  
     * You reveal mines by clicking the cells, if you reveal a mine you loose.
     
