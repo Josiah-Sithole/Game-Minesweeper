@@ -50,7 +50,7 @@ Otherwise, a number displayed either  1 or 2  these identifies the total number 
    
   ## Contact
 
-  * [Email](sitholejosiah7@gmail.com)
+  * [Email](www.sitholejosiah7@gmail.com)
   
   * [Phone number](+27603191619)
 
