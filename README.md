@@ -50,9 +50,9 @@ Otherwise, a number displayed either  1 or 2  these identifies the total number 
    
   ## Contact
 
-  * [Email](www.sitholejosiah7@gmail.com)
+  * Email: sitholejosiah7@gmail.com
   
-  * [Phone number](+27603191619)
+  * Phone number: +27603191619
 
   * [LinkedIn](https://www.linkedin.com/in/josiah-sithole-40480b222/)
   
